@@ -5,4 +5,24 @@
   border: 0;
   font-family: 微軟正黑體;
 }
+
+#footer {
+  background-color: #F2930C;
+  padding: 20px;
+  height: 150px;
+}
+
+#footer .container .row .col-3 img {
+  width: 100px;
+  border-radius: 30px;
+}
+
+#footer .container .row .col-9 {
+  padding: 30px;
+}
+
+#footer .container .row .col-9 p {
+  font-size: 15px;
+  line-height: 15px;
+}
 /*# sourceMappingURL=style.css.map */
