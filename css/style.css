@@ -16,6 +16,29 @@ nav div .navbar-brand {
   width: 100%;
 }
 
+#about {
+  background-color: #F8F9FA;
+}
+
+#about .aboutus_title {
+  padding: 30px 60px;
+}
+
+#about .copywriting {
+  padding: 3rem 3rem 5rem 10rem;
+}
+
+#about .copywriting span {
+  display: block;
+  text-align: justify;
+  font-size: 3vmin;
+  line-height: 4.25rem;
+}
+
+#content {
+  background-color: #F7D588;
+}
+
 #footer {
   background-color: #F2930C;
   padding: 20px;
@@ -35,5 +58,6 @@ nav div .navbar-brand {
   display: block;
   font-size: 1.25rem;
   line-height: 35px;
+  font-family: 'Noto Serif TC', serif;
 }
 /*# sourceMappingURL=style.css.map */

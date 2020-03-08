@@ -20,6 +20,25 @@ nav{
         }
     }
 }
+#about{
+    background-color: #F8F9FA;
+    .aboutus_title{
+        padding: 30px 60px;
+    }
+    .copywriting{
+        padding:3rem 3rem 5rem 10rem;
+        span{
+            display: block;
+            text-align:justify;
+            font-size: 3vmin;
+            line-height: 4.25rem;
+        } 
+    }
+}
+
+#content{
+    background-color: #F7D588;
+}
 #footer{
     background-color: #F2930C;
     padding:20px;
@@ -38,6 +57,7 @@ nav{
                     display:block;
                     font-size: 1.25rem;
                     line-height:35px;
+                    font-family: 'Noto Serif TC', serif;
                 }
             }
         }
