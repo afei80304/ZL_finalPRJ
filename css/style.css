@@ -6,6 +6,16 @@
   font-family: 微軟正黑體;
 }
 
+nav div .navbar-brand {
+  font-size: 2.25rem;
+  margin-left: 20px;
+}
+
+#banner div img {
+  height: auto;
+  width: 100%;
+}
+
 #footer {
   background-color: #F2930C;
   padding: 20px;
@@ -21,8 +31,9 @@
   padding: 30px;
 }
 
-#footer .container .row .col-9 p {
-  font-size: 15px;
-  line-height: 15px;
+#footer .container .row .col-9 span {
+  display: block;
+  font-size: 1.25rem;
+  line-height: 35px;
 }
 /*# sourceMappingURL=style.css.map */
